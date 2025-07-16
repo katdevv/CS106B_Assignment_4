@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\katos\\OneDrive\\Desktop\\Programming abstractions\\Assignment 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E1B098-0A3C-4005-854E-8F8631BB0D39}|Boggle\\Boggle.vcxproj|C:\\Users\\katos\\OneDrive\\Desktop\\Programming abstractions\\Assignment 4\\src\\Boggle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67E1B098-0A3C-4005-854E-8F8631BB0D39}|Boggle\\Boggle.vcxproj|solutionrelative:src\\Boggle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E1B098-0A3C-4005-854E-8F8631BB0D39}|Boggle\\Boggle.vcxproj|C:\\Users\\katos\\OneDrive\\Desktop\\Programming abstractions\\Assignment 4\\src\\gboggle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67E1B098-0A3C-4005-854E-8F8631BB0D39}|Boggle\\Boggle.vcxproj|solutionrelative:src\\gboggle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E1B098-0A3C-4005-854E-8F8631BB0D39}|Boggle\\Boggle.vcxproj|C:\\Users\\katos\\OneDrive\\Desktop\\Programming abstractions\\Assignment 4\\src\\gboggle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67E1B098-0A3C-4005-854E-8F8631BB0D39}|Boggle\\Boggle.vcxproj|solutionrelative:src\\gboggle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\katos\\AppData\\Local\\Temp\\29d6fe24-00ca-4151-9ed0-e120094bffa2_eshes24.zip.fa2\\eshes24\\Boggle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Boggle.cpp",
+              "DocumentMoniker": "C:\\Users\\katos\\AppData\\Local\\Temp\\29d6fe24-00ca-4151-9ed0-e120094bffa2_eshes24.zip.fa2\\eshes24\\Boggle.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\29d6fe24-00ca-4151-9ed0-e120094bffa2_eshes24.zip.fa2\\eshes24\\Boggle.cpp",
+              "ToolTip": "C:\\Users\\katos\\AppData\\Local\\Temp\\29d6fe24-00ca-4151-9ed0-e120094bffa2_eshes24.zip.fa2\\eshes24\\Boggle.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\29d6fe24-00ca-4151-9ed0-e120094bffa2_eshes24.zip.fa2\\eshes24\\Boggle.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T07:10:33.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gboggle.h",
+              "DocumentMoniker": "C:\\Users\\katos\\OneDrive\\Desktop\\Programming abstractions\\Assignment 4\\src\\gboggle.h",
+              "RelativeDocumentMoniker": "src\\gboggle.h",
+              "ToolTip": "C:\\Users\\katos\\OneDrive\\Desktop\\Programming abstractions\\Assignment 4\\src\\gboggle.h",
+              "RelativeToolTip": "src\\gboggle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-11T18:16:46.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gboggle.cpp",
+              "DocumentMoniker": "C:\\Users\\katos\\OneDrive\\Desktop\\Programming abstractions\\Assignment 4\\src\\gboggle.cpp",
+              "RelativeDocumentMoniker": "src\\gboggle.cpp",
+              "ToolTip": "C:\\Users\\katos\\OneDrive\\Desktop\\Programming abstractions\\Assignment 4\\src\\gboggle.cpp",
+              "RelativeToolTip": "src\\gboggle.cpp",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T08:01:41.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boggle.cpp",
+              "DocumentMoniker": "C:\\Users\\katos\\OneDrive\\Desktop\\Programming abstractions\\Assignment 4\\src\\Boggle.cpp",
+              "RelativeDocumentMoniker": "src\\Boggle.cpp",
+              "ToolTip": "C:\\Users\\katos\\OneDrive\\Desktop\\Programming abstractions\\Assignment 4\\src\\Boggle.cpp",
+              "RelativeToolTip": "src\\Boggle.cpp",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAACwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T08:01:30.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
